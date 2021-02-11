@@ -1,0 +1,2 @@
+# traning360-szoftverarchiteturak
+Szoftverarchitektúrák
